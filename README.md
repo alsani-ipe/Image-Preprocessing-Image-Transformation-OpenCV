@@ -1,5 +1,7 @@
 # Image-Preprocessing-Image-Transformation-OpenCV
-Image preprocessing is a crucial step in image analysis and computer vision tasks. It involves various operations to prepare images for further analysis or feature extraction. OpenCV is a powerful library for image preprocessing in Python. 
+Image preprocessing is a crucial step in image analysis and computer vision tasks. It involves various operations to prepare images for further analysis or feature extraction. OpenCV is a powerful library for image preprocessing in Python.
+
+
 1. 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧
 In computer science, digital image processing uses algorithms to perform image processing on digital images to extract some useful information. Digital image processing has many advantages as compared to analogue image processing. A wide range of algorithms can be applied to input data which can avoid problems such as noise and signal distortion during processing. As we know, images are defined in two dimensions, so DIP can be modelled in multidimensional systems.
 
